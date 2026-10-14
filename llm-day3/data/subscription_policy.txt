@@ -1,0 +1,12 @@
+Subscription Policy
+
+The Basic plan costs 499 rupees per month.
+
+The Pro plan costs 999 rupees per month.
+
+The Enterprise plan uses custom pricing negotiated with the sales team.
+
+Customers can cancel their subscription at any time.
+
+Cancellation stops future renewals but does not automatically qualify
+the customer for a refund.

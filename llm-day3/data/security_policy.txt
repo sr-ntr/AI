@@ -1,0 +1,11 @@
+Security Policy
+
+Passwords must never be shared with customer support staff.
+
+API keys and access tokens must be stored securely and must not be
+committed to source control.
+
+Employees must use multi-factor authentication when accessing
+production systems.
+
+Security incidents must be reported to the security team immediately.

@@ -1,0 +1,11 @@
+Refund Policy
+
+Customers can request a refund within 30 days of purchase.
+
+Refund requests submitted after 30 days are not eligible under the
+standard refund policy.
+
+If a customer has been charged twice for the same subscription,
+the support team should investigate the duplicate transaction.
+
+A confirmed duplicate charge should be refunded after verification.
