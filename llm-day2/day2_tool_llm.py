@@ -17,7 +17,7 @@ def calculate_tax(amount: float, tax_rate: float) -> float:
 model = ChatGoogleGenerativeAI(
     model="gemini-3.5-flash", google_api_key=os.environ["GEMINI_API_KEY"]
 )
-
+# bind_tools() doesn't make LLM execute the tool! It just produces tool call request
 model_with_tools = model.bind_tools([calculate_tax])
 
 response = model_with_tools.invoke("What is 18% tax on INR 1000?")
