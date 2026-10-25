@@ -1,3 +1,8 @@
+# If user query is bad (doesn't contain any keyword), keyword retrieval won't help
+# Use query transformation, and produce RRF rankings using user query based rankings and transformed query based rankings
+# User query preserves the actual wording and intent of the user
+# Transformed query helps retrieve evidence using different terminology
+
 import os
 
 from dotenv import load_dotenv
